@@ -62,6 +62,13 @@ represent:
     ##  9 9            3          5 2011-01-10 00:00:00           6         34        1
     ## 10 10           4          1 2011-01-11 00:00:00          22         26        1
     ## # ... with 15,634 more rows
-    # the output are the two plots 
+    #
+    # the output are the two plots :
+    #
     #RplotRevenuebyYear.pdf
     #RplotRevenuebyYearCategory.pdf
+    #
+    #the wrangled data was saved in 3 formats xls, csv, rds
+    # same file name with different file formats
+    #
+    #bike_orderlines.xls
