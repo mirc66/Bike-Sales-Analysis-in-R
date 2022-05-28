@@ -1,5 +1,5 @@
-# DS4B 101-R: R FOR BUSINESS ANALYSIS ----
-# JUMPSTART: first sales analysis----
+
+#  first sales analysis----
 
 # 1.0 Load libraries ----
 
